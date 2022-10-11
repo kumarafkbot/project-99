@@ -1,0 +1,40 @@
+#credit
+ {
+text-align :center;
+color :white;
+background-color : black;
+line-height:3;
+position : fixed;
+bottom:0;
+ width: 100%
+
+}
+body 
+{
+    background-color: rgb(27, 25, 25);
+    
+}
+h1,h2,h3,h4{
+    color :white 
+}
+label{
+    color :white
+}
+h1{
+    font-family: cursive;
+}
+
+#camera{
+width:500px;
+height:400px;
+border:1px solid coral
+}
+ img {
+    width : 37%;
+ padding : 10px ;
+ box-shadow : 10px 10px 10px cornflowerblue;
+    border-radius : 4px
+ }
+ img :hover { border-radius:140px}
+ 
+ 
